@@ -76,6 +76,6 @@ As a user should;
     
 
 #### License and Copyright Information
-Licensed under [MT License] () 
+Licensed under [MT License] ("https://github.com/T-erry/superheroes/blob/main/LICENSE.md") 
 
 
